@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 11803,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-rbac-report/master/RBACReportv2.ps1",
+    "DownloadCount": 2631,
+    "Id": "Azure-RBAC-Report-10b5acaf",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 87,
+    "RaterCount": 5,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-7-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script will enumerate and report Azure subscription RBAC definitions and assigned users.By default, the script will not report on Roles with no users enrolled. This can be overwritten with the excludeEmptyroles parameter..\\RBACReport.ps1 -ExcludeEmptyRoles $falseThe report wi",
+    "Title": "Azure RBAC Report",
+    "UpdatedDate": "2018-11-22T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-rbac-report",
+    "UserTags": "RBAC, Azure Security, Azure RBAC"
+}
